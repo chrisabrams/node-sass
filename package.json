@@ -2,12 +2,12 @@
   "author": "Andrew Nesbitt <andrewnez@gmail.com> (http://andrew.github.com)",
   "name": "sass",
   "description": "wrapper around libsass",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "http://github.com/andrew/node-sass",
   "main": "./sass.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/andrew/node-sass.git"
+    "url": "https://github.com/chrisabrams/node-sass.git"
   },
   "scripts": {
     "install": "node-gyp rebuild"
